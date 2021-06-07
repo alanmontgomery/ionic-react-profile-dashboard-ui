@@ -1,5 +1,11 @@
 .home {
 
+    ion-header {
+        &.header-md:after {
+            background: none;
+        }
+    }
+
     ion-header,
     ion-toolbar {
 

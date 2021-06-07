@@ -1,7 +1,7 @@
-import { IonAvatar, IonButton, IonButtons, IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle, IonCol, IonContent, IonGrid, IonHeader, IonIcon, IonPage, IonRow, IonText, IonTitle, IonToolbar } from '@ionic/react';
+import { IonButton, IonButtons, IonCard, IonCardContent, IonCardHeader, IonCardSubtitle, IonCardTitle, IonCol, IonContent, IonGrid, IonHeader, IonIcon, IonPage, IonRow, IonText, IonToolbar } from '@ionic/react';
 import styles from "./Home.module.scss";
 
-import { addOutline, arrowBackOutline, arrowForward, bookmarkOutline, chatboxEllipsesOutline, ellipseOutline, ellipsisHorizontal, ellipsisHorizontalOutline, imageOutline, pencilOutline, personAddOutline, sendOutline } from "ionicons/icons";
+import { arrowBackOutline, arrowForward, bookmarkOutline, chatboxEllipsesOutline, ellipsisHorizontal, imageOutline, personAddOutline } from "ionicons/icons";
 
 const Home = () => {
 	return (
