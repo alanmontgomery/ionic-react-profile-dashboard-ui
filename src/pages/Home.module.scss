@@ -10,7 +10,9 @@
     ion-toolbar {
 
         border: none !important;
-        --border-style: none;
+        --border-style: none !important;
+        border-color: none !important;
+        border-bottom: none !important;
     }
 
     ion-toolbar {
