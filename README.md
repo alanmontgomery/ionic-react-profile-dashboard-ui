@@ -1,5 +1,5 @@
-# ionic-react-profile-ui
-An example of a Profile UI using Ionic React
+# ionic-react-profile-dashboard-ui
+An example of a Profile Dashboard style UI using Ionic React
 <br />
 If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
 
