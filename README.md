@@ -3,7 +3,7 @@ An example of a Profile Dashboard style UI using Ionic React
 <br />
 If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
 
-![Ionic React Profile Dashboard](https://repository-images.githubusercontent.com/373901045/47122780-c55b-11eb-9789-fcd3d7d4b77a)
+![Ionic React Profile Dashboard](https://repository-images.githubusercontent.com/374764563/cebf9680-c7e6-11eb-8da1-302e03a20725)
 
 ### Included in this Ionic React Template/UI
 * Modern, stylish profile UI
