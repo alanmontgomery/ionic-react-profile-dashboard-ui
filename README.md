@@ -6,7 +6,7 @@ If you'd like to support, you can <a className="link" href="https://www.buymeaco
 ![Ionic React Profile Dashboard](https://repository-images.githubusercontent.com/374764563/cebf9680-c7e6-11eb-8da1-302e03a20725)
 
 ### Included in this Ionic React Template/UI
-* Modern, stylish profile UI
+* Modern, stylish profile dashboard UI
 * Custom header/toolbar
 * Background pattern in toolbar
 * SASS Modules & Ionic CSS utilities
